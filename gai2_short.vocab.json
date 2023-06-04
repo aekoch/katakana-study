@@ -1,0 +1,807 @@
+[
+  {
+    "kana": "アーカイバ",
+    "reading": "aakaiba",
+    "meaning": "archiver"
+  },
+  {
+    "kana": "アースデー",
+    "reading": "aasudee",
+    "meaning": "Earth Day (April 22)"
+  },
+  {
+    "kana": "アーバニティー",
+    "reading": "aabani?",
+    "meaning": "urbanity"
+  },
+  {
+    "kana": "アールデコ",
+    "reading": "aarudeko",
+    "meaning": "art deco"
+  },
+  {
+    "kana": "アイアン",
+    "reading": "aian",
+    "meaning": "iron"
+  },
+  {
+    "kana": "アイシャドウ",
+    "reading": "aishadou",
+    "meaning": "eyeshadow"
+  },
+  {
+    "kana": "アイゼン",
+    "reading": "aizen",
+    "meaning": "metal pins of climbing shoes; crampons; climbing irons"
+  },
+  {
+    "kana": "アイソトープ",
+    "reading": "aisotoopu",
+    "meaning": "isotope"
+  },
+  {
+    "kana": "アイメイト",
+    "reading": "aimeito",
+    "meaning": "seeing-eye dog; guide dog"
+  },
+  {
+    "kana": "アイライン",
+    "reading": "airain",
+    "meaning": "eyeliner"
+  },
+  {
+    "kana": "アウトサイダー",
+    "reading": "autosaidaa",
+    "meaning": "outsider"
+  },
+  {
+    "kana": "アウトバーン",
+    "reading": "autobaan",
+    "meaning": "autobahn (highway in Germany, Austria and Switzerland)"
+  },
+  {
+    "kana": "アウトロー",
+    "reading": "autoroo",
+    "meaning": "outlaw"
+  },
+  {
+    "kana": "アカシア",
+    "reading": "akashia",
+    "meaning": "acacia"
+  },
+  {
+    "kana": "アカデミズム",
+    "reading": "akademizumu",
+    "meaning": "academism"
+  },
+  {
+    "kana": "アクアトロン",
+    "reading": "akuatoron",
+    "meaning": "artificial environment control for aquatic plants and animals"
+  },
+  {
+    "kana": "アクトレス",
+    "reading": "akutoresu",
+    "meaning": "actress"
+  },
+  {
+    "kana": "アゴラフォビア",
+    "reading": "agora?bia",
+    "meaning": "agoraphobia"
+  },
+  {
+    "kana": "アジ",
+    "reading": "aji",
+    "meaning": "agitation"
+  },
+  {
+    "kana": "アスコットタイ",
+    "reading": "asukottotai",
+    "meaning": "Ascot tie"
+  },
+  {
+    "kana": "アスピーテ",
+    "reading": "asupiite",
+    "meaning": "aspite; shield volcano"
+  },
+  {
+    "kana": "アスピリン",
+    "reading": "asupirin",
+    "meaning": "aspirin"
+  },
+  {
+    "kana": "アスレチックス",
+    "reading": "asurechikkusu",
+    "meaning": "athletics; sports"
+  },
+  {
+    "kana": "アスロック",
+    "reading": "asurokku",
+    "meaning": "Anti-Submarine ROCket; ASROC"
+  },
+  {
+    "kana": "アセス",
+    "reading": "asesu",
+    "meaning": "assessment"
+  },
+  {
+    "kana": "アセチルコリン",
+    "reading": "asechirukorin",
+    "meaning": "acetylcholine"
+  },
+  {
+    "kana": "アセトン",
+    "reading": "aseton",
+    "meaning": "acetone"
+  },
+  {
+    "kana": "アダージョ",
+    "reading": "adaajo",
+    "meaning": "adagio"
+  },
+  {
+    "kana": "アチーブ",
+    "reading": "achiibu",
+    "meaning": "achieve"
+  },
+  {
+    "kana": "アップル",
+    "reading": "appuru",
+    "meaning": "apple"
+  },
+  {
+    "kana": "アテスト",
+    "reading": "atesuto",
+    "meaning": "to attest (a scorecard); to sign"
+  },
+  {
+    "kana": "アディオス",
+    "reading": "a?osu",
+    "meaning": "adios; goodbye"
+  },
+  {
+    "kana": "アト",
+    "reading": "ato",
+    "meaning": "atto-; 10^-18"
+  },
+  {
+    "kana": "アドバルーン",
+    "reading": "adobaruun",
+    "meaning": "advertising balloon"
+  },
+  {
+    "kana": "アナーキー",
+    "reading": "anaakii",
+    "meaning": "anarchy"
+  },
+  {
+    "kana": "アニーリング",
+    "reading": "aniiringu",
+    "meaning": "annealing"
+  },
+  {
+    "kana": "アパッチ",
+    "reading": "apacchi",
+    "meaning": "Apache (people)"
+  },
+  {
+    "kana": "アパルトヘイト",
+    "reading": "aparutoheito",
+    "meaning": "apartheid"
+  },
+  {
+    "kana": "アビタシオン",
+    "reading": "abitashion",
+    "meaning": "habitation"
+  },
+  {
+    "kana": "アフェア",
+    "reading": "a?a",
+    "meaning": "affair"
+  },
+  {
+    "kana": "アフリカーンス",
+    "reading": "afurikaansu",
+    "meaning": "Afrikaans (language)"
+  },
+  {
+    "kana": "アブサン",
+    "reading": "abusan",
+    "meaning": "absinthe"
+  },
+  {
+    "kana": "アベック",
+    "reading": "abekku",
+    "meaning": "(romantic) couple"
+  },
+  {
+    "kana": "アベレージ",
+    "reading": "abereeji",
+    "meaning": "average"
+  },
+  {
+    "kana": "アペタイザー",
+    "reading": "apetaizaa",
+    "meaning": "appetizer; appetiser"
+  },
+  {
+    "kana": "アボート",
+    "reading": "abooto",
+    "meaning": "abort"
+  },
+  {
+    "kana": "アボリジニ",
+    "reading": "aborijini",
+    "meaning": "(Australian) Aborigine; Aboriginal Australian"
+  },
+  {
+    "kana": "アマルガム",
+    "reading": "amarugamu",
+    "meaning": "amalgam"
+  },
+  {
+    "kana": "アマン",
+    "reading": "aman",
+    "meaning": "lover"
+  },
+  {
+    "kana": "アミ",
+    "reading": "ami",
+    "meaning": "friend"
+  },
+  {
+    "kana": "アムール",
+    "reading": "amuuru",
+    "meaning": "love"
+  },
+  {
+    "kana": "アムネスティ",
+    "reading": "amunesu?",
+    "meaning": "amnesty"
+  },
+  {
+    "kana": "アメニティ",
+    "reading": "ameni?",
+    "meaning": "amenity"
+  },
+  {
+    "kana": "アメラグ",
+    "reading": "ameragu",
+    "meaning": "American football"
+  },
+  {
+    "kana": "アラー",
+    "reading": "araa",
+    "meaning": "Allah"
+  },
+  {
+    "kana": "アラウンド",
+    "reading": "araundo",
+    "meaning": "around"
+  },
+  {
+    "kana": "アルカイスム",
+    "reading": "arukaisumu",
+    "meaning": "archaism"
+  },
+  {
+    "kana": "アルコーブ",
+    "reading": "arukoobu",
+    "meaning": "alcove"
+  },
+  {
+    "kana": "アルバトロス",
+    "reading": "arubatorosu",
+    "meaning": "albatross (seabird)"
+  },
+  {
+    "kana": "アルブミン",
+    "reading": "arubumin",
+    "meaning": "albumin"
+  },
+  {
+    "kana": "アルマジロ",
+    "reading": "arumajiro",
+    "meaning": "armadillo"
+  },
+  {
+    "kana": "アルミサッシ",
+    "reading": "arumisasshi",
+    "meaning": "aluminium sash (aluminum) (i.e. window frame)"
+  },
+  {
+    "kana": "アルミホイル",
+    "reading": "arumihoiru",
+    "meaning": "aluminum foil; aluminium foil; tin foil"
+  },
+  {
+    "kana": "アレイ",
+    "reading": "arei",
+    "meaning": "array"
+  },
+  {
+    "kana": "アンサホン",
+    "reading": "ansahon",
+    "meaning": "answer phone"
+  },
+  {
+    "kana": "アンジェラス",
+    "reading": "an?rasu",
+    "meaning": "angelus"
+  },
+  {
+    "kana": "アンダーパー",
+    "reading": "andaapaa",
+    "meaning": "under par"
+  },
+  {
+    "kana": "アンチテーゼ",
+    "reading": "anchiteeze",
+    "meaning": "antithesis"
+  },
+  {
+    "kana": "アントニム",
+    "reading": "antonimu",
+    "meaning": "antonym"
+  },
+  {
+    "kana": "アンペア",
+    "reading": "anpea",
+    "meaning": "ampere"
+  },
+  {
+    "kana": "アンモナイト",
+    "reading": "anmonaito",
+    "meaning": "ammonite"
+  },
+  {
+    "kana": "イーブン",
+    "reading": "iibun",
+    "meaning": "even"
+  },
+  {
+    "kana": "イーブンパー",
+    "reading": "iibunpaa",
+    "meaning": "even par"
+  },
+  {
+    "kana": "イコン",
+    "reading": "ikon",
+    "meaning": "icon (religious)"
+  },
+  {
+    "kana": "イド",
+    "reading": "ido",
+    "meaning": "id"
+  },
+  {
+    "kana": "インダストリー",
+    "reading": "indasutorii",
+    "meaning": "industry"
+  },
+  {
+    "kana": "インボイス",
+    "reading": "inboisu",
+    "meaning": "invoice"
+  },
+  {
+    "kana": "ウィークデー",
+    "reading": "?kudee",
+    "meaning": "weekday"
+  },
+  {
+    "kana": "ウインカー",
+    "reading": "uinkaa",
+    "meaning": "(car) turn signal; blinker; indicator"
+  },
+  {
+    "kana": "ウィ",
+    "reading": "?",
+    "meaning": "yes"
+  },
+  {
+    "kana": "ウイット",
+    "reading": "uitto",
+    "meaning": "wit"
+  },
+  {
+    "kana": "ウィリー",
+    "reading": "?rii",
+    "meaning": "wheelie"
+  },
+  {
+    "kana": "ウェイト",
+    "reading": "?ito",
+    "meaning": "weight; body weight"
+  },
+  {
+    "kana": "ウェイトレス",
+    "reading": "?itoresu",
+    "meaning": "waitress"
+  },
+  {
+    "kana": "ウェーバー",
+    "reading": "?baa",
+    "meaning": "waiver"
+  },
+  {
+    "kana": "ウェルダン",
+    "reading": "?rudan",
+    "meaning": "well-done (of meat)"
+  },
+  {
+    "kana": "ウォーカソン",
+    "reading": "?kason",
+    "meaning": "walkathon"
+  },
+  {
+    "kana": "ウォークスルー",
+    "reading": "?kusuruu",
+    "meaning": "(structured) walk through"
+  },
+  {
+    "kana": "ウォールナット",
+    "reading": "?runatto",
+    "meaning": "walnut"
+  },
+  {
+    "kana": "ワッシャー",
+    "reading": "wasshaa",
+    "meaning": "washer"
+  },
+  {
+    "kana": "ウォッチング",
+    "reading": "?cchingu",
+    "meaning": "watching"
+  },
+  {
+    "kana": "ウムラウト",
+    "reading": "umurauto",
+    "meaning": "umlaut"
+  },
+  {
+    "kana": "エーカー",
+    "reading": "eekaa",
+    "meaning": "acre"
+  },
+  {
+    "kana": "エアバス",
+    "reading": "eabasu",
+    "meaning": "airbus (short-haul passenger aircraft)"
+  },
+  {
+    "kana": "エアライフル",
+    "reading": "earaifuru",
+    "meaning": "air rifle"
+  },
+  {
+    "kana": "エオニズム",
+    "reading": "eonizumu",
+    "meaning": "eonism; transvestism"
+  },
+  {
+    "kana": "エキュメニズム",
+    "reading": "ekyumenizumu",
+    "meaning": "ecumenism"
+  },
+  {
+    "kana": "エクイタブル",
+    "reading": "ekuitaburu",
+    "meaning": "equitable"
+  },
+  {
+    "kana": "エクソシスト",
+    "reading": "ekusoshisuto",
+    "meaning": "exorcist"
+  },
+  {
+    "kana": "エコールドパリ",
+    "reading": "ekoorudopari",
+    "meaning": "École de Paris; School of Paris"
+  },
+  {
+    "kana": "エゴイズム",
+    "reading": "egoizumu",
+    "meaning": "egoism"
+  },
+  {
+    "kana": "エスキモー",
+    "reading": "esukimoo",
+    "meaning": "Eskimo"
+  },
+  {
+    "kana": "エスクワイア",
+    "reading": "esukuwaia",
+    "meaning": "esquire"
+  },
+  {
+    "kana": "エスペラント",
+    "reading": "esuperanto",
+    "meaning": "Esperanto"
+  },
+  {
+    "kana": "エチレン",
+    "reading": "echiren",
+    "meaning": "ethylene"
+  },
+  {
+    "kana": "エジンバラ",
+    "reading": "ejinbara",
+    "meaning": "Edinburgh (Scotland, UK)"
+  },
+  {
+    "kana": "エホバ",
+    "reading": "ehoba",
+    "meaning": "Jehovah"
+  },
+  {
+    "kana": "エミグラント",
+    "reading": "emiguranto",
+    "meaning": "emigrant"
+  },
+  {
+    "kana": "エルニーニョ",
+    "reading": "eruniinyo",
+    "meaning": "El Niño"
+  },
+  {
+    "kana": "エルビウム",
+    "reading": "erubiumu",
+    "meaning": "erbium (Er)"
+  },
+  {
+    "kana": "エレジー",
+    "reading": "erejii",
+    "meaning": "elegy"
+  },
+  {
+    "kana": "エンカウンター",
+    "reading": "enkauntaa",
+    "meaning": "encounter"
+  },
+  {
+    "kana": "エンダイブ",
+    "reading": "endaibu",
+    "meaning": "endive"
+  },
+  {
+    "kana": "エンディアン",
+    "reading": "en?an",
+    "meaning": "-endian (i.e. big-endian or little-endian)"
+  },
+  {
+    "kana": "エンドライン",
+    "reading": "endorain",
+    "meaning": "end line"
+  },
+  {
+    "kana": "エンバシー",
+    "reading": "enbashii",
+    "meaning": "embassy"
+  },
+  {
+    "kana": "エンペラー",
+    "reading": "enperaa",
+    "meaning": "emperor"
+  },
+  {
+    "kana": "カテドラル",
+    "reading": "katedoraru",
+    "meaning": "cathedral"
+  },
+  {
+    "kana": "カンカン",
+    "reading": "kankan",
+    "meaning": "can-can"
+  },
+  {
+    "kana": "ガリー",
+    "reading": "garii",
+    "meaning": "gully"
+  },
+  {
+    "kana": "キノホルム",
+    "reading": "kinohorumu",
+    "meaning": "chinoform; quinoform"
+  },
+  {
+    "kana": "キャタピラ",
+    "reading": "kyatapira",
+    "meaning": "caterpillar track; continuous track"
+  },
+  {
+    "kana": "キューピッド",
+    "reading": "kyuupiddo",
+    "meaning": "Cupid (god)"
+  },
+  {
+    "kana": "キルビメーター",
+    "reading": "kirubimeetaa",
+    "meaning": "curvimeter"
+  },
+  {
+    "kana": "クリスマスイブ",
+    "reading": "kurisumasuibu",
+    "meaning": "Christmas Eve"
+  },
+  {
+    "kana": "クレムリン",
+    "reading": "kuremurin",
+    "meaning": "Russian government; (former) Soviet government"
+  },
+  {
+    "kana": "コミンテルン",
+    "reading": "kominterun",
+    "meaning": "Comintern; Communist International; Third International"
+  },
+  {
+    "kana": "サターン",
+    "reading": "sataan",
+    "meaning": "Saturn (god)"
+  },
+  {
+    "kana": "サンタフェ",
+    "reading": "santa?",
+    "meaning": "Santa Fe"
+  },
+  {
+    "kana": "シェルパ",
+    "reading": "?rupa",
+    "meaning": "Sherpa"
+  },
+  {
+    "kana": "ジュピター",
+    "reading": "jupitaa",
+    "meaning": "Jupiter (god)"
+  },
+  {
+    "kana": "セリウム",
+    "reading": "seriumu",
+    "meaning": "cerium (Ce)"
+  },
+  {
+    "kana": "タリウム",
+    "reading": "tariumu",
+    "meaning": "thallium (Tl)"
+  },
+  {
+    "kana": "ダッチワイフ",
+    "reading": "dacchiwaifu",
+    "meaning": "life-sized doll used for masturbation"
+  },
+  {
+    "kana": "トロイカ",
+    "reading": "toroika",
+    "meaning": "troika"
+  },
+  {
+    "kana": "ニス",
+    "reading": "nisu",
+    "meaning": "varnish"
+  },
+  {
+    "kana": "ハーキュリーズ",
+    "reading": "haakyuriizu",
+    "meaning": "Hercules; Herakles"
+  },
+  {
+    "kana": "パンパ",
+    "reading": "panpa",
+    "meaning": "(the) Pampas"
+  },
+  {
+    "kana": "ブルドーザー",
+    "reading": "burudoozaa",
+    "meaning": "bulldozer"
+  },
+  {
+    "kana": "ベガ",
+    "reading": "bega",
+    "meaning": "Vega (star in the constellation Lyra); Alpha Lyrae"
+  },
+  {
+    "kana": "ペレストロイカ",
+    "reading": "peresutoroika",
+    "meaning": "perestroika (USSR reform movement)"
+  },
+  {
+    "kana": "ホログラム",
+    "reading": "horoguramu",
+    "meaning": "hologram"
+  },
+  {
+    "kana": "マーキュリー",
+    "reading": "maakyurii",
+    "meaning": "Mercury (god)"
+  },
+  {
+    "kana": "マティーニ",
+    "reading": "ma?ni",
+    "meaning": "martini"
+  },
+  {
+    "kana": "マウンティング",
+    "reading": "maun?ngu",
+    "meaning": "mounting (animal behaviour)"
+  },
+  {
+    "kana": "マトリックス",
+    "reading": "matorikkusu",
+    "meaning": "matrix"
+  },
+  {
+    "kana": "マハラジャ",
+    "reading": "maharaja",
+    "meaning": "maharaja"
+  },
+  {
+    "kana": "マリンスノー",
+    "reading": "marinsunoo",
+    "meaning": "marine snow"
+  },
+  {
+    "kana": "ミューズ",
+    "reading": "myuuzu",
+    "meaning": "Muse; one's muse"
+  },
+  {
+    "kana": "メインテーブル",
+    "reading": "meinteeburu",
+    "meaning": "main table"
+  },
+  {
+    "kana": "メチル",
+    "reading": "mechiru",
+    "meaning": "methyl-"
+  },
+  {
+    "kana": "リアリティ",
+    "reading": "riari?",
+    "meaning": "reality"
+  },
+  {
+    "kana": "リノール",
+    "reading": "rinooru",
+    "meaning": "linoleic"
+  },
+  {
+    "kana": "リピーター",
+    "reading": "ripiitaa",
+    "meaning": "repeater"
+  },
+  {
+    "kana": "ルミネッセンス",
+    "reading": "ruminessensu",
+    "meaning": "luminescence"
+  },
+  {
+    "kana": "レーキ",
+    "reading": "reeki",
+    "meaning": "rake"
+  },
+  {
+    "kana": "レグホン",
+    "reading": "reguhon",
+    "meaning": "Leghorn (var. of chicken)"
+  },
+  {
+    "kana": "ロープウェイ",
+    "reading": "roopu?i",
+    "meaning": "ropeway; cableway; aerial lift; cable car"
+  },
+  {
+    "kana": "ワニス",
+    "reading": "wanisu",
+    "meaning": "varnish"
+  },
+  {
+    "kana": "カイゼル",
+    "reading": "kaizeru",
+    "meaning": "kaiser; emperor"
+  },
+  {
+    "kana": "ハルバード",
+    "reading": "harubaado",
+    "meaning": "halberd"
+  }
+]
